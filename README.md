@@ -1,6 +1,6 @@
 # W3 task · Tawseel: an honest baseline for failed COD deliveries
 
-DSC Summer Internship 2026 · AI & Deep Tech track · Week 3 · expected time 3–4 hours
+DSC  · AI & Deep Tech track · Week 3 · expected time 3–4 hours
 
 ## Scenario
 
